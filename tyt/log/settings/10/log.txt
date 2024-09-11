@@ -1,0 +1,182 @@
+127.0.0.1 | 2021-07-12 02:41:58 | change stock  | QOH :0  to 50  | ROL : 0  to 10  | item :  | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 02:43:47 | change stock  | QOH :0  to 50  | ROL : 0  to 20  | item :  | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 02:44:34 | change stock  | QOH :0  to 60  | ROL : 0  to 10  | item :  | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 02:48:56 | change stock  | QOH :0 Tab to 50 Tab | ROL : 0 Tab to 10 Tab | item : Amitriptyline 25 mg | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 02:52:22 | change stock  | QOH :0 Tab to 60 Tab | ROL : 0 Tab to 20 Tab | item : Amitriptyline 25 mg | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 02:59:49 | change stock  | QOH :0 Cap to 750 Cap | ROL : 0 Cap to 80 Cap | item : Amoxicillin 250mg | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:27:34 | change stock  | QOH :0 Tab to 50 Tab | ROL : 0 Tab to 10 Tab | item : Amitriptyline 25 mg | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:27:49 | change stock  | QOH :0 Bottle to 150 Bottle | ROL : 0 Bottle to 60 Bottle | item : Activated Charcoal 50g | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:30:54 | change stock  | QOH :0 Tab to 70 Tab | ROL : 0 Tab to 50 Tab | item : Amitriptyline 25 mg | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:31:52 | change stock  | QOH :0 Bottle to 70 Bottle | ROL : 0 Bottle to 20 Bottle | item : Activated Charcoal 50g | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:32:06 | change stock  | QOH :0 Bottle to 1500 Bottle | ROL : 0 Bottle to 500 Bottle | item : Azithromycin 15ml | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:33:19 | change stock  | QOH :1500 Bottle to 1700 Bottle | ROL : 500 Bottle to 600 Bottle | item : Azithromycin 15ml | 123456 rank 1 slamc
+127.0.0.1 | 2021-07-12 03:34:14 | change stock  | QOH :0 Cap to 150 Cap | ROL : 0 Cap to 80 Cap | item : Amoxicillin 250mg | 123456 rank 1 slamc
+172.16.49.159 | 2024-04-21 03:35:45 | change stock  | QOH :0 pack to 07 pack | ROL : 0 pack to 03 pack | item : Preformed arch wire 014 NITI lower 10/Pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:36:34 | change stock  | QOH :0 ml to 3 ml | ROL : 0 ml to 2 ml | item : Enamel Etching Gel | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:37:39 | change stock  | QOH :0 roll to 1 roll | ROL : 0 roll to 1 roll | item : Gauze | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:41:20 | change stock  | QOH :0 kit to 5 kit | ROL : 0 kit to 2 kit | item : Upper right 2nd molar kit 156 bands kit MBT 022 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:42:09 | change stock  | QOH :0 kit to 2 kit | ROL : 0 kit to 1 kit | item : Upper left 2nd molar kit 156 bands kit MBT 022 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:44:18 | change stock  | QOH :0 kit to 1 kit | ROL : 0 kit to 1 kit | item : Lower right 2nd molar kit 156 bands kit MBT 022 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:45:09 | change stock  | QOH :0 kit to 2 kit | ROL : 0 kit to 1 kit | item : Lower left 2nd molar kit 156 bands kit MBT 022 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:45:40 | change stock  | QOH :0 kit to 4 kit | ROL : 0 kit to 2 kit | item : Maxillary bicuspid 184 bands kit MBT 022 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:48:34 | change stock  | QOH :0 pack to 6 pack | ROL : 0 pack to 3 pack | item : Perforemd arch wire NiTi 0.012 Upper - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:49:39 | change stock  | QOH :0 pack to 6 pack | ROL : 0 pack to 3 pack | item : Perforemd arch wire NiTi 0.014 Upper  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:50:34 | change stock  | QOH :0 pack to 37 pack | ROL : 0 pack to 10 pack | item : Perforemd arch wire NiTi  018 x 025 Lower  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:55:47 | change stock  | QOH :0 pack to 12 pack | ROL : 0 pack to 5 pack | item : Preformed  arch wire NiTi  018 x 025 Upper  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:56:49 | change stock  | QOH :0 pack to 14 pack | ROL : 0 pack to 05 pack | item : Arch wire Niti 016 Upper  (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:57:16 | change stock  | QOH :0 pack to 14 pack | ROL : 0 pack to 5 pack | item : Arch wire Niti 016 Lower  (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 03:58:17 | change stock  | QOH :0 pack to 9 pack | ROL : 0 pack to 3 pack | item : Arch wire Niti 016 x 022 Upper  (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:02:08 | change stock  | QOH :0 pack to 30 pack | ROL : 0 pack to 10 pack | item : Arch wire Niti 016 x 022 Lower  (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:03:24 | change stock  | QOH :0 pack to 9 pack | ROL : 0 pack to 5 pack | item : Preformed arch wire SS 016 x 022 Upper  10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:12:59 | change stock  | QOH :0 pack to 97 pack | ROL : 0 pack to 10 pack | item : Arch wire ss 016 Upper  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:14:29 | change stock  | QOH :0 pack to 74 pack | ROL : 0 pack to 10 pack | item : Arch wire ss 016 Lower  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:15:10 | change stock  | QOH :0 pack to 80 pack | ROL : 0 pack to 10 pack | item : Arch wire ss  018x025 Upper  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:15:45 | change stock  | QOH :0 pack to 32 pack | ROL : 0 pack to 10 pack | item : Arch wire ss  018x025 Lower  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:16:26 | change stock  | QOH :0 pack to 24 pack | ROL : 0 pack to 10 pack | item : Arch wire ss  019x025 Upper  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:20:49 | change stock  | QOH :9 pack to 2 pack | ROL : 5 pack to 1 pack | item : Preformed arch wire SS 016 x 022 Upper  10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:23:21 | change stock  | QOH :0 pack to 26 pack | ROL : 0 pack to 10 pack | item : Arch wire with hook ss 019x 025 Upper 34mm- 10 /pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:24:02 | change stock  | QOH :0 pack to 22 pack | ROL : 0 pack to 10 pack | item : Arch wire with hook ss 019x 025  Upper 36mm- 10/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:24:40 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Arch wire with hook ss 019x 025 Upper 38mm- 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:25:09 | change stock  | QOH :0 pack to 3 pack | ROL : 0 pack to 2 pack | item : Arch wire with hook ss 019x 025 Upper 40mm- 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:25:42 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Arch wire with hook ss 019x 025 Upper 42mm- 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:26:23 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 3 pack | item : Arch wire with hook ss 019x 025 Lower 24mm- 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:27:00 | change stock  | QOH :0 pack to 12 pack | ROL : 0 pack to 5 pack | item : Arch wire with hook ss 019x 025 Lower  26mm- 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:27:50 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 3 pack | item : Arch wire with hook ss 019x 025 Lower  28mm- 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:29:36 | change stock  | QOH :0 roll to 6 roll | ROL : 0 roll to 3 roll | item : Australian wire (7.5 coil) 0.016 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:30:00 | change stock  | QOH :0 roll to 6 roll | ROL : 0 roll to 3 roll | item : Australian wire (7.5 coil) 0.018 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:31:09 | change stock  | QOH :0 roll to 5 roll | ROL : 0 roll to 2 roll | item : Australian wire (7.5 coil) 0.020 | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:33:29 | change stock  | QOH :0 pack to 21 pack | ROL : 0 pack to 5 pack | item : Preformed arch wire SS Upper 018  (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:35:36 | change stock  | QOH :2 pack to 50 pack | ROL : 1 pack to 10 pack | item : Preformed arch wire SS 016 x 022 Upper  10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:36:34 | change stock  | QOH :0 pack to 40 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire SS  017 x 025 Upper  10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:37:33 | change stock  | QOH :0 pack to 35 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire SS   016 x 022  Lower  10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:38:56 | change stock  | QOH :0 pack to 32 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire NiTi Upper 018 (10pcs/pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:39:32 | change stock  | QOH :0 pack to 45 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire NiTi Lower 012 (10pcs/ pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:41:10 | change stock  | QOH :0 pack to 45 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire NiTi  012 Lower (10pcs/ pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.159 | 2024-04-21 04:41:43 | change stock  | QOH :0 pack to 25 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire NiTi 018  Lower 10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:33:59 | change stock  | QOH :0 each to 2 each | ROL : 0 each to 1 each | item : Open helix spring (open coil spring) 6'' | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:36:51 | change stock  | QOH :0 pack to 11 pack | ROL : 0 pack to 5 pack | item : Plastic separators  pack 1000 /pcs | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:37:36 | change stock  | QOH :0 roll to 3 roll | ROL : 0 roll to 2 roll | item : Plastic chain continous (3.5roll) with short connection | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:38:20 | change stock  | QOH :0 roll to 4 roll | ROL : 0 roll to 2 roll | item : Elastic Chain (without short connector) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:39:08 | change stock  | QOH :0 roll to 3 roll | ROL : 0 roll to 1 roll | item : Plastic sleeving 0.09mm (5m) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:41:21 | change stock  | QOH :0 g to 3 g | ROL : 0 g to 2 g | item : Ligature wire in coils  | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:42:18 | change stock  | QOH :0 pack to 30 pack | ROL : 0 pack to 10 pack | item : Tension spring NITI 09mm length (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:43:13 | change stock  | QOH :0 pack to 5 pack | ROL : 0 pack to 2 pack | item : Bondable lingual buttons (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:45:39 | change stock  | QOH :0 pack to 8 pack | ROL : 0 pack to 4 pack | item : Reverse curve TMA with T loop 19x25     34  (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 09:49:54 | change stock  | QOH :0 pack to 8 pack | ROL : 0 pack to 4 pack | item : Reverse curve TMA with T loop 19x25     38 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:01:45 | change stock  | QOH :0 each to 2 each | ROL : 0 each to 1 each | item : Memory Titanol Springs For Uprighting Molars a Set With  Cross Tube | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:02:47 | change stock  | QOH :0 each to 44 each | ROL : 0 each to 10 each | item : Ortho Easy 6mm | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:04:38 | change stock  | QOH :0 kit to 40 kit | ROL : 0 kit to 10 kit | item : Self ligating bracket MBT 022 with  hook Patient kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:05:56 | change stock  | QOH :0 each to 12 each | ROL : 0 each to 5 each | item : Preformed Cosmetic Arch Wire NITI 014 Lower | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:07:16 | change stock  | QOH :0 each to 2 each | ROL : 0 each to 1 each | item : Light Cure Composite Flowble Restorative A3  | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:10:54 | change stock  | QOH :0 each to 13 each | ROL : 0 each to 5 each | item : Preformed cosmetic arch wire NITI  018 upper (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:11:30 | change stock  | QOH :0 each to 7 each | ROL : 0 each to 3 each | item : Preformed cosmetic arch wire NITI 018 lower  (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:12:03 | change stock  | QOH :13 each to 7 each | ROL : 5 each to 3 each | item : Preformed cosmetic arch wire NITI  018 upper (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:13:07 | change stock  | QOH :0 pack to 3 pack | ROL : 0 pack to 2 pack | item : NiTi Turbo arch wire 017X025 Upper (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:14:40 | change stock  | QOH :0 g to 5 g | ROL : 0 g to 2 g | item : Light cure flowable composite A3 -  | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:15:42 | change stock  | QOH :0 each to 230 each | ROL : 0 each to 100 each | item : Disposable cup | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:19:42 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 3 pack | item : Posted SS Arch Wire 019x025 Upper 32mm | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:20:27 | change stock  | QOH :0 pack to 11 pack | ROL : 0 pack to 5 pack | item : Posted SS Arch Wire 019x025 Lower 28mm | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:27:17 | change stock  | QOH :0 kit to 2 kit | ROL : 0 kit to 1 kit | item : 2nd molar band with single tube 022MBT LL-150 band kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:31:25 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Intra Oral elastic (3.4,4.5oz)dia.5/16 | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:33:23 | change stock  | QOH :0 roll to 4 roll | ROL : 0 roll to 1 roll | item : Sterilization indicator Autoclave Monitor Tape | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:36:03 | change stock  | QOH :0 pack to 21 pack | ROL : 0 pack to 5 pack | item : Nitanol heat activated arch wire 014 Lower (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:36:41 | change stock  | QOH :0 pack to 17 pack | ROL : 0 pack to 5 pack | item : Nitanol heat activated arch wire 014 Upper (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:37:33 | change stock  | QOH :0 pack to 19 pack | ROL : 0 pack to 5 pack | item : Preformed Titanal Cosmetic Arch Wire 016x022 Lower (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:40:58 | change stock  | QOH :0 each to 10 each | ROL : 0 each to 4 each | item : Ortho Loking Closed Coil Sprin 6mm | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:43:31 | change stock  | QOH :0 pcs to 15 pcs | ROL : 0 pcs to 5 pcs | item : Direct bond eylet with chain | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:48:42 | change stock  | QOH :0 kit to 50 kit | ROL : 0 kit to 10 kit | item : Damon self ligating brackets patient kit 022 MBT  | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:49:06 | change stock  | QOH :0 kit to 7 kit | ROL : 0 kit to 3 kit | item : Damon clear self ligating brackets 022 MBT Patient Kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:51:00 | change stock  | QOH :0 pack to 4 pack | ROL : 0 pack to 2 pack | item : Bondable Lingual bottons,rectangular flat(10pcs/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:51:49 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 3 pack | item : Bondable buccal tubes MBT second molar Lower left (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:52:13 | change stock  | QOH :0 pack to 5 pack | ROL : 0 pack to 2 pack | item : Bondable buccal tubes MBT second molar Lower right (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:53:15 | change stock  | QOH :0 pack to 13 pack | ROL : 0 pack to 5 pack | item : Nitinol Heat Activated Niti arch Wire 021x025 lower (10/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:53:44 | change stock  | QOH :0 pack to 38 pack | ROL : 0 pack to 5 pack | item : Nitinol Heat Activated Niti arch Wire 021x025 Upper (10/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:54:11 | change stock  | QOH :0 pack to 16 pack | ROL : 0 pack to 5 pack | item : Nitinol Heat Activated Niti arch Wire 016x022 Upper (10/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:54:37 | change stock  | QOH :0 pack to 30 pack | ROL : 0 pack to 5 pack | item : Nitinol Heat Activated Niti arch Wire 019x025 Lower (10/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:55:15 | change stock  | QOH :0 pack to 10 pack | ROL : 0 pack to 3 pack | item : Nitinol Heat Activated Niti arch Wire 019x025 Upper (10/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 10:59:46 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 3 pack | item : Preformed Niti  SE archwire L 012 Ortho Formed 1 Taperd (10pcs/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:00:53 | change stock  | QOH :0 pack to 9 pack | ROL : 0 pack to 4 pack | item : Preformed Niti  SE archwire L 019x025 Ortho Formed 1 Taperd (10pcs/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:03:41 | change stock  | QOH :0 pack to 13 pack | ROL : 0 pack to 4 pack | item : Preformed Niti  SE archwire U 019x025 Ortho Formed 1 Taperd (10pcs/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:04:47 | change stock  | QOH :0 kit to 2 kit | ROL : 0 kit to 1 kit | item : Second molar band with single tube 022 MBT UL 150/band kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:05:33 | change stock  | QOH :0 kit to 2 kit | ROL : 0 kit to 1 kit | item : Second molar band with single tube 022 MBT UR 150/band kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:06:56 | change stock  | QOH :2 kit to 2 kit | ROL : 1 kit to 1 kit | item : Second molar band with single tube 022 MBT UL 150/band kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:10:25 | change stock  | QOH :0 pack to 4 pack | ROL : 0 pack to 2 pack | item : Horizontal Lingual Sheat with 3.2mm Vertical hook UR/LL - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:11:04 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Plastic Ligature Silver colour - 1000 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:11:32 | change stock  | QOH :0 pack to 11 pack | ROL : 0 pack to 5 pack | item : Plastic Ligature Multi colour - 1000 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:13:36 | change stock  | QOH :0 pack to 10 pack | ROL : 0 pack to 4 pack | item : Preformed TMA arch wire 017 x 025 L (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:14:09 | change stock  | QOH :0 pack to 10 pack | ROL : 0 pack to 4 pack | item : Preformed TMA arch wire 021 x 025 U (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:15:29 | change stock  | QOH :10 pack to 12 pack | ROL : 4 pack to 4 pack | item : Preformed TMA arch wire 017 x 025 L (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:17:27 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : NiTi Turbo Wire 021x025 Lower Small | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:17:51 | change stock  | QOH :0 each to 1 each | ROL : 0 each to 1 each | item : NiTi Turbo Wire 021x025 Upper Small | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:21:33 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Extra Oral Elastics 8 oz 3/8 -100 /pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:21:52 | change stock  | QOH :0 ml to 2 ml | ROL : 0 ml to 1 ml | item : Die Spacer  | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:24:29 | change stock  | QOH :0 each to 15 each | ROL : 0 each to 5 each | item : ANCHOR plate APTS | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:25:37 | change stock  | QOH :0 each to 4 each | ROL : 0 each to 2 each | item : ANCHOR plate APTL | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:26:08 | change stock  | QOH :0 each to 10 each | ROL : 0 each to 4 each | item : Maxillary skeletal expander (M.S.E) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:27:13 | change stock  | QOH :0 pack to 20 pack | ROL : 0 pack to 5 pack | item : Direct Bond Bracket Adehisive | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:27:45 | change stock  | QOH :20 pack to 10 pack | ROL : 5 pack to 5 pack | item : Direct Bond Bracket Adehisive | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:28:24 | change stock  | QOH :0 set to 20 set | ROL : 0 set to 5 set | item : Direct bond brackets lower anterior set 022 MBT | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:28:44 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Dead soft retainer wires - 10/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:29:14 | change stock  | QOH :0 each to 25 each | ROL : 0 each to 8 each | item : Bone screw for anchor plate OSS T2005S | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:30:27 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket UR2  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:30:52 | change stock  | QOH :0 pack to 4 pack | ROL : 0 pack to 2 pack | item : Replacement Bracket UR4  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:32:37 | change stock  | QOH :2 pack to 2 pack | ROL : 1 pack to 1 pack | item : Replacement Bracket UR2  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:33:36 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LR1  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:34:10 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LR2  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:34:34 | change stock  | QOH :0 pack to 3 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LR3  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:35:31 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LL1  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:36:25 | change stock  | QOH :0 pack to 6 pack | ROL : 0 pack to 2 pack | item : Replacement Bracket LL3  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:36:59 | change stock  | QOH :0 pack to 4 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LR4  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:38:03 | change stock  | QOH :0 kit to 10 kit | ROL : 0 kit to 4 kit | item : Face mask reverse pull head gear | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:40:04 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Straight lenght wire TMA 017x025 (10psc/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:42:59 | change stock  | QOH :0 roll to 2 roll | ROL : 0 roll to 1 roll | item : Sterilization Wrappers 75cm x 75cm  x 200m | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-24 11:43:41 | change stock  | QOH :0 pack to 3 pack | ROL : 0 pack to 2 pack | item : Othodontic Study Model Storage box | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-25 10:15:54 | change stock  | QOH :3 ml to 3 ml | ROL : 2 ml to 2 ml | item : Enamel Etching Gel | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-25 10:22:19 | change stock  | QOH :0 each to 13 each | ROL : 0 each to 5 each | item : Preformed  cosmetic arch wire NITI 014 upper (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-04-25 11:17:59 | change stock  | QOH :0 each to 9 each | ROL : 0 each to 3 each | item : Arch Wire Niti Turbo 017x025 Lower Small | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 07:56:57 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Damon arch wire 018 upper 10pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:04:58 | change stock  | QOH :2 roll to 2 roll | ROL : 1 roll to 1 roll | item : Sterilization Wrappers 75cm x 75cm  x 200m | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:09:41 | change stock  | QOH :0 pack to 50 pack | ROL : 0 pack to 10 pack | item : Preformed arch wire  SS Lower 018  (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:09:54 | change stock  | QOH :21 pack to 21 pack | ROL : 5 pack to 5 pack | item : Preformed arch wire SS Upper 018  (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:30:02 | change stock  | QOH :0 pack to 11 pack | ROL : 0 pack to 5 pack | item : Preformed SS arch wire 020 Lower (10pcs/ pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:30:25 | change stock  | QOH :0 pack to 6 pack | ROL : 0 pack to 3 pack | item : Preformed SS arch wire 020 upper (10pcs/ pack) | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:31:33 | change stock  | QOH :7 pack to 7 pack | ROL : 3 pack to 3 pack | item : Preformed Niti  SE archwire L 012 Ortho Formed 1 Taperd (10pcs/pk) | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:34:05 | change stock  | QOH :0 each to 40 each | ROL : 0 each to 10 each | item : CAPlant 05 CW palatal implant | S/651990 wo 11 Bandara MMAS
+172.16.49.228 | 2024-04-25 08:37:49 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 3 pack | item : Arch wire Niti reversed curved  017x025 Lower - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:06:31 | change stock  | QOH :0 g to 1 g | ROL : 0 g to 1 g | item : Impression Material | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:07:00 | change stock  | QOH :1 g to 1 g | ROL : 1 g to 1 g | item : Impression Material | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:07:59 | change stock  | QOH :0 pack to 10 pack | ROL : 0 pack to 2 pack | item : Arch wire Niti 017 x 025 Upper   (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:08:51 | change stock  | QOH :0 pack to 8 pack | ROL : 0 pack to 1 pack | item : Arch wire Niti 017 x 025 Lower   (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:16:10 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Arch wire Niti reversed curved  017x  025 Upper  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:17:17 | change stock  | QOH :0 pack to 54 pack | ROL : 0 pack to 6 pack | item : Preformed ss arch wire 019x025 Lower  -(10 pcs pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:21:58 | change stock  | QOH :0 pack to 13 pack | ROL : 0 pack to 1 pack | item : Arch wire  preformed TMA 021x 025 Upper (10/Pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:22:54 | change stock  | QOH :0 pack to 9 pack | ROL : 0 pack to 1 pack | item : Arch wire  preformed TMA 021x 025 Lower (10/ Pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:24:44 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Arch wire  SS 016x 022 Upper medium - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:29:33 | change stock  | QOH :0 pack to 34 pack | ROL : 0 pack to 6 pack | item : Preformed arch wire  SS  017 x 025  Lower 10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:39:12 | change stock  | QOH :0 each to 5 each | ROL : 0 each to 1 each | item : Perforemd Lower 2nd Bicuspid kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:42:38 | change stock  | QOH :0 pack to 22 pack | ROL : 0 pack to 3 pack | item : Arch wire NITI 019x025 Lower 10 pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:44:48 | change stock  | QOH :37 pack to 42 pack | ROL : 10 pack to 10 pack | item : Perforemd arch wire NiTi  018 x 025 Lower  - 10 pcs pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:46:25 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Reverse curve TMA with T loop 19x25    40 mm (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:55:17 | change stock  | QOH :0 g to 2 g | ROL : 0 g to 1 g | item : Light cure flowable  composite A2  | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 04:59:26 | change stock  | QOH :0 set to 70 set | ROL : 0 set to 12 set | item : Bracket MBT 022 twin upper anterior set (6/set) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:04:06 | change stock  | QOH :0 pack to 11 pack | ROL : 0 pack to 2 pack | item : Preformed Beta Titanium Arch Wire 021x025 Upper - 10 pcs set | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:04:19 | change stock  | QOH :0 pack to 11 pack | ROL : 0 pack to 1 pack | item : Preformed Beta Titanium Arch Wire 021x025 Lower- 10 pcs set | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:10:59 | change stock  | QOH :0 pack to 13 pack | ROL : 0 pack to 2 pack | item : Preformed Titanal Cosmetic Arch Wire 016x022 Upper (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:12:59 | change stock  | QOH :0 pack to 10 pack | ROL : 0 pack to 2 pack | item : Nitinol heat activated arch wire 016 Lower  (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:16:40 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 2 pack | item : Bondable buccal tubes 022 double tubes with mesial hook,lower left (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:17:19 | change stock  | QOH :0 pack to 5 pack | ROL : 0 pack to 1 pack | item : Bondable buccal tubes 022 double tubes with mesial hook,lower Right (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:18:12 | change stock  | QOH :0 pack to 5 pack | ROL : 0 pack to 1 pack | item : Preformed SS archwire 019x025 Lower (10pcs/pk) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:23:08 | change stock  | QOH :0 kit to 9 kit | ROL : 0 kit to 1 kit | item : Ceramic bracket with metal slot  paient kit(MBT 022)kit | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:25:03 | change stock  | QOH :0 pack to 10 pack | ROL : 0 pack to 1 pack | item : Preformed TMA arch wire 021 x 025 L (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:25:46 | change stock  | QOH :0 pack to 12 pack | ROL : 0 pack to 2 pack | item : Preformed TMA arch wire 017 x 025 U (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:38:52 | change stock  | QOH :1 pack to 1 pack | ROL : 1 pack to 1 pack | item : NiTi Turbo Wire 021x025 Lower Small | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:40:20 | change stock  | QOH :1 pack to 1 pack | ROL : 1 pack to 1 pack | item : NiTi Turbo Wire 021x025 Lower Small | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:52:03 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket UL2  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:53:12 | change stock  | QOH :4 pack to 00 pack | ROL : 1 pack to 00 pack | item : Replacement Bracket LR4  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:54:32 | change stock  | QOH :0 pack to 4 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LL4  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:56:22 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Damon arch wire 016 x 025 upper 10pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:57:49 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Damon arch wire 018 x 025 upper 10pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 05:58:29 | change stock  | QOH :0 pack to 1 pack | ROL : 0 pack to 1 pack | item : Damon arch wire 018 x 025 lower 10pcs/pack | S/651990 wo 11 Bandara MMAS
+172.16.50.232 | 2024-05-05 06:00:00 | change stock  | QOH :0 pack to 7 pack | ROL : 0 pack to 1 pack | item : Intra Oral Latex elastics Medium(2 oz)dia.3/16"(1000/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.168 | 2024-08-04 12:52:24 | change stock  | QOH :0 pack to 2 pack | ROL : 0 pack to 1 pack | item : Replacement Bracket LR5  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS
+172.16.50.168 | 2024-08-04 12:53:37 | change stock  | QOH :10 pack to 2 pack | ROL :  pack to 1 pack | item : Replacement Bracket LL5  MBT 022 (10/pack) | S/651990 wo 11 Bandara MMAS

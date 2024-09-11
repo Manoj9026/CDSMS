@@ -1,0 +1,434 @@
+::1 | 2019-03-07 01:25:43 | o/70560 capt ajith parakramachange stockBeclomethasone Dipropionate Inhaler250mcg | QOH 0nos to 500nos | ROL 661nos to 661nos
+::1 | 2019-03-07 01:27:18 | o/70560 capt ajith parakrama | change stock | item : Breath Induced Device for D.P. Caps  | QOH :0nos to 300nos | ROL : 275nos to 275nos
+::1 | 2019-03-07 01:34:31 | change stock  | QOH :0 nos to 90 nos | ROL : 873 nos to 873 nos | item : LCP 3.5mm Clavicle Hook Plate (Right) SMALL FRAGMENT 5 total no of holes 12mm hook depth | o/70560 capt ajith parakrama
+::1 | 2021-07-08 04:33:42 | change stock  | QOH :40000 Tab to 40006 Tab | ROL : 1000 Tab to 1000 Tab | item : Amitriptyline 25 mg | o/70560 cap ajith parakrama
+172.16.71.8 | 2024-03-19 09:57:51 | change stock  | QOH :32 each to 32 each | ROL : 1 each to 1 each | item : white acrylic trimming burs | o/65603 Major HPD Galgodella USP
+172.16.71.8 | 2024-03-19 10:05:31 | change stock  | QOH :1 each to 1 each | ROL : 1 each to 1 each | item : Burs acrylic TC (fissure head ) | o/65603 Major HPD Galgodella USP
+172.16.71.9 | 2024-03-21 12:06:54 | change stock  | QOH :10 each to 0 each | ROL :  each to 1 each | item : Halogen Bulb 12V-50W (2 pin round) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-21 12:38:35 | change stock  | QOH :135 AMP/VIAL to 115 AMP/VIAL | ROL :  AMP/VIAL to 1 AMP/VIAL | item : Adrenaline Vial | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-21 12:40:28 | change stock  | QOH :118 each to 180 each | ROL :  each to 1 each | item : Bristle brushes for polishing(short pieces) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 12:24:29 | change stock  | QOH :1 each to 0 each | ROL : 1 each to 1 each | item : Burs acrylic TC (fissure head ) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 12:24:39 | change stock  | QOH :32 each to 0 each | ROL : 1 each to 1 each | item : white acrylic trimming burs | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 12:24:46 | change stock  | QOH :1 each to 0 each | ROL : 1 each to 1 each | item : Bur acrylic TC (rose head) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 12:25:02 | change stock  | QOH :1 each to 0 each | ROL : 1 each to 1 each | item : Bur acrylic TC (flame head) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 12:25:17 | change stock  | QOH :1 each to 0 each | ROL :  each to 1 each | item : Metal trimming bur | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 12:27:02 | change stock  | QOH :10 each to 0 each | ROL :  each to 1 each | item : Desensitizing tooth paste Rapid Relief | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:20:25 | change stock  | QOH :1 each to 0 each | ROL :  each to 01 each | item : Bur acrylic  Fissure head | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:21:22 | change stock  | QOH :7 pack to 0 pack | ROL :  pack to 1 pack | item : Denture Base Material Pack(450g powder/500ml liquid) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:22:11 | change stock  | QOH :4500 g to 0 g | ROL :  g to 1 g | item : Dental Modelling Wax Hard | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:22:42 | change stock  | QOH :11100 ml to 0 ml | ROL : 1 ml to 1 ml | item : Self cure acrylic liquid | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:22:54 | change stock  | QOH :7400 g to 0 g | ROL : 1 g to 1 g | item : Self cure acrylic powder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:23:11 | change stock  | QOH :500 g to 0 g | ROL :  g to 1 g | item : Orthodontic wire ss hard 0.5mm (g) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:23:33 | change stock  | QOH :500 g to 0 g | ROL : 1 g to 1 g | item : Orthodontic wire ss hard 0.6mm (g) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:23:46 | change stock  | QOH :3000 g to 0 g | ROL :  g to 01 g | item : Orthodontic wire ss hard 0.7mm (g) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:24:02 | change stock  | QOH :1500 g to 0 g | ROL :  g to 01 g | item : Orthodontic wire ss hard 0.9mm (g) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:24:28 | change stock  | QOH :10 meter to 0 meter | ROL :  meter to 01 meter | item : Silver solder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:25:28 | change stock  | QOH :100 each to 0 each | ROL :  each to 01 each | item : Ball retainer clasp (0.028 wire with 0.7mm Ball  ) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:26:19 | change stock  | QOH :2 each to 0 each | ROL :  each to 1 each | item : Water Sand Paper (1000) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:33:47 | change stock  | QOH :2750 ml to 750 ml | ROL :  ml to 01 ml | item : Purified Butane Lighter Gas | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:34:48 | change stock  | QOH :3 each to 0 each | ROL :  each to 1 each | item : Pear shaped large bur | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:36:10 | change stock  | QOH :5 each to 0 each | ROL : 1 each to 1 each | item : Super Cuts Separating Disk (7003-250) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:36:43 | change stock  | QOH :100 g to 0 g | ROL :  g to 01 g | item : Ortho wire s/s hard 0.7 half round | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:41:21 | change stock  | QOH :2 each to 0 each | ROL :  each to 01 each | item : NSK pana air standard ultra push head(NPA-SU-03) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:41:43 | change stock  | QOH :3 each to 0 each | ROL :  each to 1 each | item : NSK EC contrangle H/P head (NAC-Y) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:42:27 | change stock  | QOH :4 each to 0 each | ROL :  each to 01 each | item : NSK wrench type standard head (NPASO 3-TO 14) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:43:21 | change stock  | QOH :15 each to 0 each | ROL : 1 each to 1 each | item : Three Way Syringe | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:43:39 | change stock  | QOH :-6 Nos(cord) to 0 Nos(cord) | ROL : 1 Nos(cord) to 1 Nos(cord) | item : H/P Cord 4hole(straight)(1.8m/pcs) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:46:35 | change stock  | QOH :40 pack to 0 pack | ROL :  pack to 1 pack | item : Perforemd arch wire NiTi 0.014 Upper  - 10 pcs pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:48:14 | change stock  | QOH :4 pack to 0 pack | ROL :  pack to 01 pack | item : Arch wire Niti 016 Upper  (10/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:48:39 | change stock  | QOH :4 pack to 0 pack | ROL :  pack to 1 pack | item : Arch wire Niti 016 Lower  (10/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:48:55 | change stock  | QOH :10 pack to 0 pack | ROL :  pack to 01 pack | item : Arch wire Niti 016 x 022 Upper  (10/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:49:19 | change stock  | QOH :10 pack to 0 pack | ROL :  pack to 01 pack | item : Arch wire Niti 016 x 022 Lower  (10/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:50:09 | change stock  | QOH :5 pack to 0 pack | ROL :  pack to 01 pack | item : Arch wire Niti 017 x 025 Upper   (10/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:50:31 | change stock  | QOH :10 pack to 0 pack | ROL :  pack to 1 pack | item : Arch wire Niti 017 x 025 Lower   (10/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:53:02 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 01 pack | item : Plastic separators  pack 1000 /pcs | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:53:37 | change stock  | QOH :50 each to 0 each | ROL :  each to 1 each | item : Inter dental brushes | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:54:14 | change stock  | QOH :1415 pack to 0 pack | ROL : 1 pack to 1 pack | item : Orthodontic protective wax  pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:55:31 | change stock  | QOH :46 each to 0 each | ROL :  each to 1 each | item : Temporary Anchorage device  022 slot TAD 8mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:56:47 | change stock  | QOH :2 pack to 0 pack | ROL :  pack to 01 pack | item : Nitanol heat activated arch wire 014 Upper (10/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:57:32 | change stock  | QOH :10 pcs to 0 pcs | ROL : 0 pcs to 1 pcs | item : Direct bond eylet with chain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:57:54 | change stock  | QOH :2 kit to 0 kit | ROL :  kit to 1 kit | item : Damon self ligating brackets patient kit 022 MBT  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 04:58:28 | change stock  | QOH :9 pack to 0 pack | ROL :  pack to 01 pack | item : Preformed SS arch wire 020 upper(10pcs/pk) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:00:49 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 1 pack | item : Bondable buccal tubes 022 with MBT tripple tube with hook UL - 10 pcs pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:01:27 | change stock  | QOH :-4 pack to 0 pack | ROL : 1 pack to 1 pack | item : Plastic Ligature Silver colour - 1000 pcs pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:01:50 | change stock  | QOH :6 pack to 0 pack | ROL : 1 pack to 1 pack | item : Plastic Ligature Multi colour - 1000 pcs pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:02:12 | change stock  | QOH :30 each to 0 each | ROL :  each to 01 each | item : Replacement molar band 022 MBT UL35  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:02:30 | change stock  | QOH :30 each to 0 each | ROL :  each to 01 each | item : Replacement molar band 022 MBT UL35+   | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:02:54 | change stock  | QOH :30 each to 0 each | ROL :  each to 01 each | item : Replasement molar band 022 MBT UL36  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:03:18 | change stock  | QOH :30 each to 0 each | ROL :  each to 01 each | item : Replacement molar band 022 MBT UL40  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:03:39 | change stock  | QOH :30 each to 0 each | ROL :  each to 01 each | item : Replacement molar band 022 MBT UL40+  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:04:02 | change stock  | QOH :30 each to 0 each | ROL :  each to 1 each | item : Replacement molar band 022 MBT UR35+  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:05:25 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 1 pack | item : Preformed TMA arch wire 021 x 025 U (10/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:05:45 | change stock  | QOH :2 pack to 0 pack | ROL :  pack to 01 pack | item : Preformed TMA arch wire 017 x 025 L (10/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:06:03 | change stock  | QOH :2 pack to 0 pack | ROL :  pack to 1 pack | item : Preformed TMA arch wire 017 x 025 U (10/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:08:33 | change stock  | QOH :40 each to 0 each | ROL :  each to 1 each | item : ANCHOR plate APTS | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:08:51 | change stock  | QOH :10 each to 0 each | ROL :  each to 01 each | item : ANCHOR plate APTL | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:09:26 | change stock  | QOH :2 pack to 0 pack | ROL :  pack to 1 pack | item : Dead soft retainer wires - 10/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:15:39 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 01 pack | item : Damon arch wire 013 upper 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:15:57 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 1 pack | item : Damon arch wire 013 lower 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:16:15 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 1 pack | item : Damon arch wire 014 upper 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:16:39 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 1 pack | item : Damon arch wire 014 lower 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:17:01 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 1 pack | item : Damon arch wire 016 upper 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:17:19 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 01 pack | item : Damon arch wire 016 lower 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:20:40 | change stock  | QOH :5 each to 4 each | ROL :  each to 1 each | item : Photography retractor | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 05:21:35 | change stock  | QOH :3 each to 0 each | ROL :  each to 01 each | item : TMA Straight Length Wire (0.017 x 0.025) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:27:35 | change stock  | QOH :43 pack to 0 pack | ROL :  pack to 01 pack | item : Zinc Oxide With Egenol | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:28:58 | change stock  | QOH :20 tube to 0 tube | ROL :  tube to 01 tube | item : Topical application for oral ulcers (steroid + Analgesic) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:29:29 | change stock  | QOH :180 each to 0 each | ROL : 1 each to 1 each | item : Bristle brushes for polishing(short pieces) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:29:57 | change stock  | QOH :96 each to 0 each | ROL : 1 each to 1 each | item : Burs air rotor C/A H/P Fissure Diamond (small) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:31:15 | change stock  | QOH :2 each to 0 each | ROL :  each to 01 each | item : Burs air rotor C/A H/P Round Diamond (Medium) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:31:51 | change stock  | QOH :143 each to 0 each | ROL :  each to 01 each | item : Burs STR H/P surgical Burs TC (fissure) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:32:18 | change stock  | QOH :26 each to 0 each | ROL :  each to 01 each | item : Burs A/R  Fissure (Tapering Fissure) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:32:37 | change stock  | QOH :17 set to 0 set | ROL :  set to 01 set | item : Burs Air rotor Tapering Fissure 3 PCS SET | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:33:03 | change stock  | QOH :12 each to 0 each | ROL :  each to 01 each | item : Crown Preperation Kit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:33:26 | change stock  | QOH :575 each to 0 each | ROL :  each to 01 each | item : Disposable cup | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:34:11 | change stock  | QOH :6 pack to 0 pack | ROL :  pack to 01 pack | item : Composite polishing discs set | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:35:08 | change stock  | QOH :25000 ml to 0 ml | ROL :  ml to 01 ml | item : Chorhexiphynol Solution (Dettol) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:35:43 | change stock  | QOH :4 set to 0 set | ROL :  set to 01 set | item : Root canal files H (15-40) 21mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:36:10 | change stock  | QOH :2 set to 0 set | ROL :  set to 01 set | item : Root canal files K (15-40) 21mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 08:36:40 | change stock  | QOH :20 each to 0 each | ROL :  each to 01 each | item : Paste carriers (Lentual 25mm) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:37:18 | change stock  | QOH :64000 ml to 0 ml | ROL :  ml to 01 ml | item : Isoproppyl Alcohol  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:37:41 | change stock  | QOH :6 set to 0 set | ROL :  set to 01 set | item : Root canal K file (15-40) 25mm  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:38:11 | change stock  | QOH :3 set to 0 set | ROL : 1 set to 1 set | item : Protaper for hand use Set of 6 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:38:59 | change stock  | QOH :14 set to 0 set | ROL :  set to 01 set | item : Finger plugger (15-40) 25 mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:39:54 | change stock  | QOH :403 g to 0 g | ROL :  g to 01 g | item : Root canal sealer (resin based)  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:40:27 | change stock  | QOH :490 pair to 0 pair | ROL :  pair to 01 pair | item : Gloves surgical size 06 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:41:06 | change stock  | QOH :2 pack to 0 pack | ROL :  pack to 01 pack | item : heamostp | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:41:46 | change stock  | QOH :100 bottle to 0 bottle | ROL :  bottle to 01 bottle | item : Mouth wash chlorhexidine 70-100ml | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:42:06 | change stock  | QOH :10 bot to 0 bot | ROL :  bot to 01 bot | item : TSR (Teeth stain remover) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:42:39 | change stock  | QOH :5 each to 0 each | ROL :  each to 01 each | item : Suture Polypropylene 3/0 taper cutting/reverse  cutting 3/8 or half circle 75mm length | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:43:23 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 01 pack | item : GIC posterior | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:43:47 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 01 pack | item : GIC Light cure | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:44:08 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 01 pack | item : Adhesive resin cement | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:44:58 | change stock  | QOH :8 pack to 0 pack | ROL :  pack to 01 pack | item : Polycarboxylate cement | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:45:47 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 01 pack | item : Vinyl polysiloxane (Putty) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:46:23 | change stock  | QOH :20 pack to 0 pack | ROL :  pack to 01 pack | item : Calcium hydroxide with BaSO4 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:47:03 | change stock  | QOH :18 each to 0 each | ROL :  each to 01 each | item : Piezoelectric scaling tip (Cavitron Celector tip) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:47:32 | change stock  | QOH :25 each to 0 each | ROL :  each to 01 each | item : Desensitizing tooth paste | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:48:00 | change stock  | QOH :3 each to 0 each | ROL :  each to 01 each | item : Bond agent(self etchant)  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:48:37 | change stock  | QOH :116 each to 0 each | ROL :  each to 01 each | item : Burs A/R pear shaped | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:49:01 | change stock  | QOH :13 g to 0 g | ROL :  g to 01 g | item : Light Cure Composite A3.5 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:49:35 | change stock  | QOH :216 g to 0 g | ROL :  g to 01 g | item : Light cure composite posterior A3  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:50:20 | change stock  | QOH :18 each to 0 each | ROL :  each to 01 each | item : Protaper file size individual -S1 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:51:08 | change stock  | QOH :17 each to 0 each | ROL :  each to 01 each | item : Protaper file size individual -F2 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:51:36 | change stock  | QOH :27 pack to 0 pack | ROL :  pack to 01 pack | item : Protaper files size individual -S2 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:52:05 | change stock  | QOH :1 pack to 0 pack | ROL : 1 pack to 1 pack | item : Fibre post system  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:52:27 | change stock  | QOH :-11 g to 0 g | ROL :  g to 01 g | item : Root canal lubricant syringe  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:52:53 | change stock  | QOH :1 g to 0 g | ROL :  g to 01 g | item : Light cure flowable composite A3 -  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:53:32 | change stock  | QOH :88 each to 0 each | ROL :  each to 01 each | item : Burs A/R C/A H/P Round Small | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:54:27 | change stock  | QOH :19 set to 0 set | ROL :  set to 01 set | item : Protaper File Full System(Engine driven 25mm &amp; 20mm)(6PCS/SET) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:55:05 | change stock  | QOH :141 pack to 0 pack | ROL :  pack to 01 pack | item : Protaper GP (assorted pack F1/F2/ F3) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:55:38 | change stock  | QOH :3 each to 0 each | ROL : 1 each to 1 each | item : Sodium Fluoride varnish 2.26%(1.5mlx10tubes/Pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:56:09 | change stock  | QOH :32 pack to 0 pack | ROL :  pack to 01 pack | item : Calcium hydroxide Light curing | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:56:32 | change stock  | QOH :40 roll to 0 roll | ROL :  roll to 01 roll | item : Sterilization indicator Autoclave Monitor Tape | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:57:35 | change stock  | QOH :31000 ml to 0 ml | ROL :  ml to 01 ml | item : Mouth wash chlorhexidine 0.2% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:57:52 | change stock  | QOH :236 g to 0 g | ROL : 1 g to 1 g | item : Light Cure Composite A2 Colour | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:58:22 | change stock  | QOH :260 g to 0 g | ROL :  g to 01 g | item : Light Cure Composite A3 Colour | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:58:54 | change stock  | QOH :5 pack to 0 pack | ROL :  pack to 01 pack | item : RVG Sensor Cover | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:59:10 | change stock  | QOH :12 each to 0 each | ROL : 1 each to 1 each | item : Burs A/R Flame Shape | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 09:59:35 | change stock  | QOH :20 tube to 0 tube | ROL :  tube to 01 tube | item : Chlorhexidine Gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:00:06 | change stock  | QOH :18 each to 0 each | ROL :  each to 01 each | item : Air Rotor Wheel burs | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:01:10 | change stock  | QOH :-9 pack to 0 pack | ROL :  pack to 01 pack | item : Paper serviette -100 Sheet/6 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:01:54 | change stock  | QOH :20 box to 0 box | ROL :  box to 01 box | item : Examination Gloves(Non Powder)- Extra Small 100 pcs/box | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:02:19 | change stock  | QOH :20 pack to 0 pack | ROL :  pack to 01 pack | item : Proteper GP F1 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:02:41 | change stock  | QOH :15 pack to 0 pack | ROL :  pack to 01 pack | item : Proteper GP F2 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:03:05 | change stock  | QOH :20 pack to 0 pack | ROL :  pack to 01 pack | item : Proteper GP F3 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:03:46 | change stock  | QOH :134 each to 0 each | ROL :  each to 01 each | item : Examination Gloves non powder (Small) 100pcs | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:04:10 | change stock  | QOH :34900 nos to 0 nos | ROL :  nos to 01 nos | item : Glove Examination Small (Powdered) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:04:28 | change stock  | QOH :18300 nos to 0 nos | ROL : 1 nos to 1 nos | item : Glove Examination Large (Powdered) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:05:04 | change stock  | QOH :54 pack to 0 pack | ROL :  pack to 01 pack | item : GP For Protaper F2   | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:05:30 | change stock  | QOH :39 pack to 0 pack | ROL :  pack to 01 pack | item : GP For Protaper F3   | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:05:52 | change stock  | QOH :59 pack to 0 pack | ROL :  pack to 01 pack | item : Protaper Paper point set  F2 (100points/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:06:28 | change stock  | QOH :35 pack to 0 pack | ROL :  pack to 01 pack | item : Protaper Paper point set F3 (100points/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:07:14 | change stock  | QOH :29000 ml to 0 ml | ROL : 1 ml to 1 ml | item : Alcohol Hand Scrub (70-85%) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:07:40 | change stock  | QOH :79 each to 0 each | ROL :  each to 01 each | item : Burs air rotor C/A H/P Fissure Diamond (Large)) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:08:00 | change stock  | QOH :79 each to 0 each | ROL :  each to 01 each | item : Burs air rotor C/A H/P Inverted Diamond (Small) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:08:16 | change stock  | QOH :64 each to 0 each | ROL :  each to 01 each | item : Burs air rotor C/A H/P Round Diamond (Small) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:08:52 | change stock  | QOH :79 each to 0 each | ROL :  each to 01 each | item : Burs air rotor C/A H/P Round Diamond (Large) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:09:56 | change stock  | QOH :  to 0  | ROL :   to 01  | item :  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:13:38 | change stock  | QOH :10 nos to 0 nos | ROL :  nos to 01 nos | item : Amalgam plugger meadium                                                | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:18:15 | change stock  | QOH :1 nos to 0 nos | ROL :  nos to 01 nos | item : Impression trays upper Identulous                         | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:22:16 | change stock  | QOH :2 nos to 0 nos | ROL :  nos to 01 nos | item : Lower Molar Forceps                                               | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:24:54 | change stock  | QOH :6 nos to 0 nos | ROL :  nos to 01 nos | item : Plaster Spatula                                                    | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:27:23 | change stock  | QOH :3 nos to 0 nos | ROL :  nos to 01 nos | item : Rubber Bowl | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:30:09 | change stock  | QOH :5 nos to 0 nos | ROL :  nos to 01 nos | item : Upper Molar Forceps  Left | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:33:36 | change stock  | QOH :1 nos to 0 nos | ROL :  nos to 01 nos | item : Ruler Metal 30cm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:35:19 | change stock  | QOH :1 nos to 0 nos | ROL :  nos to 01 nos | item : Impression Trays Upper Identulous   L                      | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:36:02 | change stock  | QOH :1 nos to 0 nos | ROL :  nos to 01 nos | item : Impression Trays Lower Identulous   L                      | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:36:19 | change stock  | QOH :1 nos to 0 nos | ROL :  nos to 01 nos | item : Impression Trays Lower Identulous   M                      | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:37:14 | change stock  | QOH :2 nos to 0 nos | ROL :  nos to 01 nos | item : Impression Tray Upper Dentulous | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:38:05 | change stock  | QOH :6356 nos to 0 nos | ROL :  nos to 01 nos | item : Trays Impression Upper Size 03 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:40:23 | change stock  | QOH :2 nos to 0 nos | ROL :  nos to 01 nos | item : Stethoscope | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:40:57 | change stock  | QOH :5 nos to 0 nos | ROL :  nos to 01 nos | item : Stainless Steel water Cup   | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:43:34 | change stock  | QOH :-9 pack to 0 pack | ROL : 0 pack to 01 pack | item : Ca(OH)2 (non setting) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:44:00 | change stock  | QOH :1 bot to 0 bot | ROL :  bot to 01 bot | item : Clove Oil | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:44:30 | change stock  | QOH :150 roll to 0 roll | ROL :  roll to 01 roll | item : Lint Roll | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:45:02 | change stock  | QOH :244 bot to 0 bot | ROL :  bot to 01 bot | item : Normal Saline | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:45:28 | change stock  | QOH :11 each to 0 each | ROL :  each to 01 each | item : Suture Vicryl 4/0 (75cm Length with 20 mm) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:45:46 | change stock  | QOH :2 each to 0 each | ROL :  each to 01 each | item : Synthetic Absorable Surgical  Suture | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:46:10 | change stock  | QOH :139000 ml to 0 ml | ROL :  ml to 01 ml | item : X Ray developer ml | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:46:38 | change stock  | QOH :345 film to 0 film | ROL :  film to 01 film | item : X Ray Film Periapical | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:46:56 | change stock  | QOH :157300 ml to 0 ml | ROL :  ml to 01 ml | item : X Ray Fixer | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:47:19 | change stock  | QOH :5000 g to 0 g | ROL : 11710 g to 01 g | item : Zinc Oxide Powder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:47:40 | change stock  | QOH :-11 pack to 0 pack | ROL :  pack to 01 pack | item : Zinc Phosphate Powder &amp; Liquid | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:47:59 | change stock  | QOH :30 pack to 0 pack | ROL :  pack to 01 pack | item : Calcium Hydroxide With Iodoform | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:48:25 | change stock  | QOH :7 vial to 0 vial | ROL :  vial to 01 vial | item : Lignocaine Plain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:48:44 | change stock  | QOH :-11 each to 0 each | ROL :  each to 01 each | item : Temporary Filling Material ready made eugenol free | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:49:09 | change stock  | QOH :820 each to 0 each | ROL :  each to 01 each | item : Surgial Blade No 15 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:49:26 | change stock  | QOH :988 each to 0 each | ROL :  each to 01 each | item : Surgical Blade No 11 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:49:43 | change stock  | QOH :200 each to 0 each | ROL :  each to 01 each | item : Silver Alloy Capsules | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:50:21 | change stock  | QOH :21 each to 0 each | ROL :  each to 01 each | item : Wire Brush | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:50:41 | change stock  | QOH :24 each to 0 each | ROL :  each to 01 each | item : Burs diamond Round For A/R C/A H/P (Large) SS | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:51:21 | change stock  | QOH :725 kg to 0 kg | ROL :  kg to 01 kg | item : POP - Soft | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:51:37 | change stock  | QOH :450 set to 0 set | ROL :  set to 01 set | item : Teeth Set of 6 Lower (Anterior) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:51:54 | change stock  | QOH :450 set to 0 set | ROL :  set to 01 set | item : Teeth Set of 8 Lower (Posterior) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:52:09 | change stock  | QOH :560 set to 0 set | ROL :  set to 01 set | item : Teeth Set of 8 Upper (Posterior) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:52:28 | change stock  | QOH :600 set to 0 set | ROL :  set to 01 set | item : Teeth Set of  Upper 6 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:53:00 | change stock  | QOH :255 set to 0 set | ROL :  set to 01 set | item : Plastic Teeth Full Set | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:53:19 | change stock  | QOH :17 each to 0 each | ROL :  each to 01 each | item : Burs Diamond fissure for A/R C/A H/P (Large)SS | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:53:53 | change stock  | QOH :65830 g to 0 g | ROL :  g to 01 g | item : Impression Material | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:54:19 | change stock  | QOH :66 bottle to 0 bottle | ROL : 1 bottle to 1 bottle | item : Denture Base Materials Powder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:54:38 | change stock  | QOH :367 ml to 0 ml | ROL : 1 ml to 1 ml | item : Denture Base Materials Liquid | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:55:10 | change stock  | QOH :30 roll to 0 roll | ROL :  roll to 01 roll | item : Elastro Plaster | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:56:03 | change stock  | QOH :120 each to 0 each | ROL :  each to 01 each | item : EDTA Gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:57:15 | change stock  | QOH :2 each to 0 each | ROL :  each to 01 each | item : Super Hard Burs(pear shaped) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 10:59:26 | change stock  | QOH :4 pack to 0 pack | ROL :  pack to 01 pack | item : GP Removel  File For Protaper | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:06:00 | change stock  | QOH :10 pack to 0 pack | ROL :  pack to 01 pack | item : Protaper Paper point set F5 (100point/pk) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:06:31 | change stock  | QOH :7 each to 0 each | ROL :  each to 01 each | item : Burs A/R C/A H/P Fissure Diamend (M) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:06:48 | change stock  | QOH :21 each to 0 each | ROL :  each to 01 each | item : Bur A/R C/A H/P Inverted Diamend Large | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:07:03 | change stock  | QOH :28 each to 0 each | ROL :  each to 01 each | item : Bur A/R C/A H/P Inverted Diamend - M | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:07:29 | change stock  | QOH :450 each to 0 each | ROL : 0 each to 01 each | item : N 95 Face Mask | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:08:35 | change stock  | QOH :3 each to 0 each | ROL :  each to 01 each | item : Replacement Molar Band 022 MBT LL 34 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:09:09 | change stock  | QOH :5 each to 0 each | ROL :  each to 01 each | item : Replacement Molar Band 022 MBT LL 34+ | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:11:53 | change stock  | QOH :6 each to 0 each | ROL :  each to 01 each | item : Replacement Molar Band  022 MBT UR 40 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:14:11 | change stock  | QOH :5 each to 0 each | ROL :  each to 01 each | item : Replacement Molar Band  022 MBT UR 36+ | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:14:56 | change stock  | QOH :103 AMP/VIAL to 0 AMP/VIAL | ROL : 1 AMP/VIAL to 1 AMP/VIAL | item : Adrenaline Vial | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:15:23 | change stock  | QOH :184 ml to 0 ml | ROL : 1 ml to 1 ml | item : Enamel Etching Gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:15:43 | change stock  | QOH :1 each to 0 each | ROL :  each to 01 each | item : Enamal Bond System | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:16:04 | change stock  | QOH :2 each to 0 each | ROL :  each to 01 each | item : Composite Filling Matirial A2 Colour Enamal | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:16:31 | change stock  | QOH :5 each to 0 each | ROL : 1 each to 1 each | item : Dental Floss | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:16:46 | change stock  | QOH :410 each to 0 each | ROL :  each to 01 each | item : Disposable Needles 23G x25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:17:33 | change stock  | QOH :47 pack to 0 pack | ROL :  pack to 01 pack | item : Dical-Ca(OH)2 (quick setting) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:18:05 | change stock  | QOH :5 set to 0 set | ROL : 0 set to 01 set | item : Root Canal file  K (45-80) 25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:20:10 | change stock  | QOH :17 each to 0 each | ROL :  each to 01 each | item : Protaper file size individual -F1 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:20:51 | change stock  | QOH :79 each to 0 each | ROL :  each to 01 each | item : GP Point Size 30 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:21:46 | change stock  | QOH :7 each to 0 each | ROL :  each to 01 each | item : Root Canal file  K (45-80) 25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:22:01 | change stock  | QOH :1 set to 0 set | ROL : 1 set to 1 set | item : NiTi 15-40 K File 25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:22:31 | change stock  | QOH :1 set to 0 set | ROL :  set to 01 set | item : RCT File K Size 6 21mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:22:44 | change stock  | QOH :1 set to 0 set | ROL :  set to 01 set | item : RCT File K Size 8  25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:23:17 | change stock  | QOH :6 set to 0 set | ROL :  set to 01 set | item :  K FILE Size 10  25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:23:36 | change stock  | QOH :6 set to 0 set | ROL :  set to 01 set | item : H File Size 10  25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:24:03 | change stock  | QOH :3 set to 0 set | ROL :  set to 01 set | item : Engine Reamers Set (15-40)21mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:24:53 | change stock  | QOH :1370 pair to 0 pair | ROL :  pair to 01 pair | item : GLOVES SURGICAL 07 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:25:09 | change stock  | QOH :1950 pair to 0 pair | ROL :  pair to 01 pair | item : GLOVES SURGICAL 7 1/2 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:25:25 | change stock  | QOH :230 pair to 0 pair | ROL : 0 pair to 01 pair | item : GLOVES SURGICAL 08 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:25:45 | change stock  | QOH :15 set to 0 set | ROL :  set to 01 set | item : GP POINTS (45-80) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:26:01 | change stock  | QOH :144 each to 0 each | ROL :  each to 01 each | item : GP POINTS (15-40) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:26:17 | change stock  | QOH :46 each to 0 each | ROL :  each to 01 each | item : GP Point Size 25 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:26:42 | change stock  | QOH :32 set to 0 set | ROL :  set to 01 set | item : GP Point Size 40 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:27:05 | change stock  | QOH :26 bot to 0 bot | ROL : 1 bot to 1 bot | item : HYDROGEN PEROXIDE(H2O2)450ml 3% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:27:24 | change stock  | QOH :60 vial to 0 vial | ROL :  vial to 01 vial | item : Lignocaine with Adrenalin | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:27:48 | change stock  | QOH :80 tube to 0 tube | ROL : 1 tube to 1 tube | item : Lidocaine gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:28:08 | change stock  | QOH :-8 pack to 0 pack | ROL :  pack to 01 pack | item :  Prophylactic paste | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:28:38 | change stock  | QOH :49150 nos to 0 nos | ROL : 5 nos to 5 nos | item : Disposable Face Mask | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:29:05 | change stock  | QOH :39 bottle to 0 bottle | ROL : 1 bottle to 1 bottle | item : Betadine solution | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:29:32 | change stock  | QOH :20 AMP/VIAL to 0 AMP/VIAL | ROL : 1 AMP/VIAL to 1 AMP/VIAL | item : Dexamethazone injection | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:30:11 | change stock  | QOH :46 each to 0 each | ROL : 1 each to 1 each | item : sodium Hypoclorite | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:30:51 | change stock  | QOH :-330 vial to 0 vial | ROL :  vial to 01 vial | item : injection Dextrose | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:31:09 | change stock  | QOH :155 vial to 0 vial | ROL :  vial to 01 vial | item : Injection Dextrose 50% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:32:27 | change stock  | QOH :180 roll to 0 roll | ROL :  roll to 01 roll | item : Gauze | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:32:44 | change stock  | QOH :165 roll to 0 roll | ROL :  roll to 01 roll | item : Cotton roll 500 G | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:33:09 | change stock  | QOH :1 each to 0 each | ROL : 0 each to 01 each | item : COMPOSITE LIGHT CURE MATERIAL A3 COLOUR ENAMAL | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:33:32 | change stock  | QOH :19 each to 0 each | ROL : 0 each to 01 each | item : Pulp devitalizing agent | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:34:08 | change stock  | QOH :245 each to 0 each | ROL :  each to 01 each | item : Disposable Syringes 10cc | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:34:29 | change stock  | QOH :2725 each to 0 each | ROL :  each to 01 each | item : DISPOSABLE SYRINGES 3cc | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:34:56 | change stock  | QOH :95 each to 0 each | ROL :  each to 01 each | item : DISPOSABLE SYRINGES 5cc | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:35:23 | change stock  | QOH :2 bot to 0 bot | ROL : 0 bot to 01 bot | item : Formacresole  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:35:45 | change stock  | QOH :149000 nos to 0 nos | ROL :  nos to 01 nos | item : GLOVES EXAMINATION | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:36:23 | change stock  | QOH :-4 pack to 0 pack | ROL : 1 pack to 1 pack | item : GP SOLVENT | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:36:54 | change stock  | QOH :21 set to 0 set | ROL :  set to 01 set | item : PAPER POINT (15-40) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:37:29 | change stock  | QOH :157 kg to 0 kg | ROL : 0 kg to 01 kg | item : POP-HARD | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:38:04 | change stock  | QOH :270 g to 0 g | ROL : 0 g to 01 g | item : DENTAL FLUX | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:38:46 | change stock  | QOH :1200 ml to 0 ml | ROL :  ml to 01 ml | item : Savlon | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:39:27 | change stock  | QOH :154 each to 0 each | ROL :  each to 01 each | item : Diamond bur for A/R H/P  (yellow band) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:39:54 | change stock  | QOH :15 each to 0 each | ROL :  each to 01 each | item : TC fissure burs  for A/R H/P | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:40:31 | change stock  | QOH :304 pack to 0 pack | ROL :  pack to 01 pack | item : Intra Oral Latex Elastics ( 2oz )3/16&quot; | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:40:56 | change stock  | QOH :3 pack to 0 pack | ROL :  pack to 01 pack | item : Airo Strips ( Orthodontic Interdental Stripping DB 05 0900 ) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:41:28 | change stock  | QOH :7 each to 0 each | ROL :  each to 01 each | item : Barbed broaches | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:41:55 | change stock  | QOH :303 each to 0 each | ROL :  each to 01 each | item : Mirror Tops No 4 front surface reflecting plain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:43:28 | change stock  | QOH :70 each to 0 each | ROL :  each to 01 each | item : Mirror Tops No 5 Front Surface Reflecing  plain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:45:21 | change stock  | QOH :15 each to 0 each | ROL :  each to 01 each | item : Scaler Tip (compatible for DTE - HD - 7H Scaler Hand piece) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:45:50 | change stock  | QOH :3 each to 0 each | ROL :  each to 01 each | item : TMA Straight length 019 x 025 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:46:13 | change stock  | QOH :-10 each to 0 each | ROL :  each to 01 each | item : Scaler hand piece cord (for woodpacker HW- 3H hand piece) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:46:41 | change stock  | QOH :4 pack to 0 pack | ROL :  pack to 01 pack | item : Hot and cool gel pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:47:03 | change stock  | QOH :1 pack to 0 pack | ROL :  pack to 01 pack | item : K FILE SIZE 08 21MM | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:47:23 | change stock  | QOH :1 set to 0 set | ROL :  set to 01 set | item : NITI FILE K(15-40) 21MM | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:47:39 | change stock  | QOH :5 each to 0 each | ROL :  each to 01 each | item : 1.0MM DOUBLE Y- TITANIUM | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-24 11:47:57 | change stock  | QOH :276 each to 0 each | ROL :  each to 01 each | item : Mirror tops no 5 rear surface reflecting plain 01Each -ss white | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:43:10 | change stock  | QOH :10 pack to 0 pack | ROL :  pack to 1 pack | item : Arch wire with hook ss 019x 025 Upper 40mm- 10 pcs pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:43:28 | change stock  | QOH :55 each to 0 each | ROL :  each to 1 each | item : Open helix spring (open coil spring) 6'' | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:44:58 | change stock  | QOH :4 each to 0 each | ROL :  each to 1 each | item : Replacement Molar band 022 MBT LL 41 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:45:55 | change stock  | QOH :12300 each to 5100 each | ROL :  each to 1 each | item : Micro Brushes | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:46:36 | change stock  | QOH :5 nos to 0 nos | ROL :  nos to 1 nos | item : Rectrangular scaler Tray -6 "x4"-(M) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:48:23 | change stock  | QOH :0 AMP/VIAL to 115 AMP/VIAL | ROL : 1 AMP/VIAL to 1 AMP/VIAL | item : Adrenaline Vial | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:48:50 | change stock  | QOH :0 each to 110 each | ROL : 1 each to 1 each | item : Bristle brushes for polishing(short pieces) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:49:18 | change stock  | QOH :110 each to 180 each | ROL : 1 each to 1 each | item : Bristle brushes for polishing(short pieces) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:53:35 | change stock  | QOH :0 each to 44 each | ROL : 1 each to 1 each | item : Burs air rotor C/A H/P Fissure Diamond (small) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:54:15 | change stock  | QOH :0 each to 60 each | ROL : 1 each to 1 each | item : Burs STR H/P surgical Burs TC (fissure) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:55:17 | change stock  | QOH :0 each to 18 each | ROL : 1 each to 1 each | item : Burs A/R  Fissure (Tapering Fissure) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:55:56 | change stock  | QOH :0 each to 12 each | ROL : 1 each to 1 each | item : Crown Preperation Kit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:56:41 | change stock  | QOH :0 pack to 06 pack | ROL : 1 pack to 1 pack | item : Ca(OH)2 (non setting) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:57:30 | change stock  | QOH :0 ml to 05 ml | ROL : 1 ml to 1 ml | item : Enamel Etching Gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:58:40 | change stock  | QOH :0 pack to 02 pack | ROL : 1 pack to 1 pack | item : Composite polishing discs set | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:59:13 | change stock  | QOH :0 roll to 114 roll | ROL : 1 roll to 1 roll | item : Cotton roll 500 G | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 10:59:41 | change stock  | QOH :0 each to 15 each | ROL : 1 each to 1 each | item : Pulp devitalizing agent | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:00:13 | change stock  | QOH :0 ml to 18500 ml | ROL : 1 ml to 1 ml | item : Chorhexiphynol Solution (Dettol) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:00:40 | change stock  | QOH :0 each to 400 each | ROL : 1 each to 1 each | item : Disposable Needles 23G x25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:01:07 | change stock  | QOH :0 each to 235 each | ROL : 1 each to 1 each | item : Disposable Syringes 10cc | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:01:44 | change stock  | QOH :0 each to 2025 each | ROL : 1 each to 1 each | item : DISPOSABLE SYRINGES 3cc | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:02:19 | change stock  | QOH :0 each to 15 each | ROL : 1 each to 1 each | item : DISPOSABLE SYRINGES 5cc | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:02:51 | change stock  | QOH :0 pack to 21 pack | ROL : 1 pack to 1 pack | item : Dical-Ca(OH)2 (quick setting) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:07:18 | change stock  | QOH :0 set to 01 set | ROL : 1 set to 1 set | item : Root Canal file  K (45-80) 25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:08:27 | change stock  | QOH :0 set to 04 set | ROL :  set to 1 set | item : Root canal file  H(45 - 80) 25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:10:37 | change stock  | QOH :0 set to 06 set | ROL : 1 set to 1 set | item : H File Size 10  25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:11:03 | change stock  | QOH :0 each to 20 each | ROL : 1 each to 1 each | item : Paste carriers (Lentual 25mm) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:11:38 | change stock  | QOH :0 ml to 56500 ml | ROL : 1 ml to 1 ml | item : Isoproppyl Alcohol  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:12:06 | change stock  | QOH :0 set to 02 set | ROL : 1 set to 1 set | item : Root canal K file (15-40) 25mm  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:12:41 | change stock  | QOH :0 set to 14 set | ROL : 1 set to 1 set | item : Finger plugger (15-40) 25 mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:13:25 | change stock  | QOH :0 g to 190 g | ROL : 1 g to 1 g | item : Root canal sealer (resin based)  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:13:53 | change stock  | QOH :0 roll to 119 roll | ROL : 1 roll to 1 roll | item : Gauze | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:14:59 | change stock  | QOH :0 pair to 480 pair | ROL : 1 pair to 1 pair | item : Gloves surgical size 06 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:15:59 | change stock  | QOH :0 pair to 1085 pair | ROL :  pair to 1 pair | item : GLOVES SURGICAL 6 1/2 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:16:16 | change stock  | QOH :0 pair to 1305 pair | ROL : 1 pair to 1 pair | item : GLOVES SURGICAL 07 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:16:40 | change stock  | QOH :0 pair to 940 pair | ROL : 1 pair to 1 pair | item : GLOVES SURGICAL 7 1/2 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:16:50 | change stock  | QOH :0 pair to 60 pair | ROL : 1 pair to 1 pair | item : GLOVES SURGICAL 08 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:17:50 | change stock  | QOH :0 nos to 13500 nos | ROL : 1 nos to 1 nos | item : GLOVES EXAMINATION | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:18:23 | change stock  | QOH :0 each to 119 each | ROL : 1 each to 1 each | item : GP POINTS (15-40) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:19:31 | change stock  | QOH :0 set to 15 set | ROL : 1 set to 1 set | item : GP POINTS (45-80) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:19:59 | change stock  | QOH :0 each to 28 each | ROL : 1 each to 1 each | item : GP Point Size 25 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:20:46 | change stock  | QOH :0 each to 68 each | ROL : 1 each to 1 each | item : GP Point Size 30 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:21:02 | change stock  | QOH :0 set to 21 set | ROL : 1 set to 1 set | item : GP Point Size 40 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:23:47 | change stock  | QOH :0 bot to 22 bot | ROL : 1 bot to 1 bot | item : HYDROGEN PEROXIDE(H2O2)450ml 3% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:24:23 | change stock  | QOH :0 vial to 107 vial | ROL : 1 vial to 1 vial | item : Lignocaine with Adrenalin | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:24:41 | change stock  | QOH :0 tube to 70 tube | ROL : 1 tube to 1 tube | item : Lidocaine gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:25:11 | change stock  | QOH :0 roll to 150 roll | ROL : 1 roll to 1 roll | item : Lint Roll | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:25:52 | change stock  | QOH :0 bot to 133 bot | ROL : 1 bot to 1 bot | item : Normal Saline | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:26:22 | change stock  | QOH :0 set to 18 set | ROL : 1 set to 1 set | item : PAPER POINT (15-40) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:27:35 | change stock  | QOH :0 pack to 02 pack | ROL : 1 pack to 1 pack | item :  Prophylactic paste | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:28:07 | change stock  | QOH :0 bot to 06 bot | ROL : 1 bot to 1 bot | item : TSR (Teeth stain remover) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:28:59 | change stock  | QOH :0 nos to 37850 nos | ROL : 5 nos to 1 nos | item : Disposable Face Mask | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:29:34 | change stock  | QOH :0 bottle to 26 bottle | ROL : 1 bottle to 1 bottle | item : Betadine solution | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:30:37 | change stock  | QOH :0 ml to 69000 ml | ROL : 1 ml to 1 ml | item : X Ray developer ml | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:31:06 | change stock  | QOH :0 film to 195 film | ROL : 1 film to 1 film | item : X Ray Film Periapical | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:31:36 | change stock  | QOH :0 ml to 72500 ml | ROL : 1 ml to 1 ml | item : X Ray Fixer | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:32:06 | change stock  | QOH :0 g to 5000 g | ROL : 1 g to 1 g | item : Zinc Oxide Powder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:32:28 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Zinc Phosphate Powder &amp; Liquid | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:32:50 | change stock  | QOH :0 pack to 19 pack | ROL : 1 pack to 1 pack | item : Calcium Hydroxide With Iodoform | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:33:46 | change stock  | QOH :0 pack to 06 pack | ROL : 1 pack to 1 pack | item : Polycarboxylate cement | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:34:12 | change stock  | QOH :0 pack to 03 pack | ROL : 1 pack to 1 pack | item : Calcium hydroxide with BaSO4 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:34:56 | change stock  | QOH :0 AMP/VIAL to 20 AMP/VIAL | ROL : 1 AMP/VIAL to 1 AMP/VIAL | item : Dexamethazone injection | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:35:38 | change stock  | QOH :0 each to 34 each | ROL : 1 each to 1 each | item : sodium Hypoclorite | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:37:34 | change stock  | QOH :0 vial to 10 vial | ROL : 1 vial to 1 vial | item : injection Dextrose 25% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:37:48 | change stock  | QOH :0 vial to 150 vial | ROL : 1 vial to 1 vial | item : Injection Dextrose 50% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:38:24 | change stock  | QOH :0 each to 06 each | ROL : 1 each to 1 each | item : Temporary Filling Material ready made eugenol free | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:38:52 | change stock  | QOH :0 each to 890 each | ROL : 1 each to 1 each | item : Surgial Blade No 15 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:39:08 | change stock  | QOH :0 each to 1023 each | ROL : 1 each to 1 each | item : Surgical Blade No 11 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:39:40 | change stock  | QOH :0 each to 05 each | ROL : 1 each to 1 each | item : Wire Brush | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:40:04 | change stock  | QOH :0 each to 12 each | ROL : 1 each to 1 each | item : Piezoelectric scaling tip (Cavitron Celector tip) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:40:34 | change stock  | QOH :0 each to 24 each | ROL : 1 each to 1 each | item : Burs diamond Round For A/R C/A H/P (Large) SS | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:40:55 | change stock  | QOH :0 pack to 04 pack | ROL : 1 pack to 1 pack | item : Denture Base Material Pack(450g powder/500ml liquid) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:41:19 | change stock  | QOH :0 g to 12000 g | ROL : 1 g to 1 g | item : Dental Modelling Wax Hard | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:42:11 | change stock  | QOH :0 g to 2000 g | ROL :  g to 01 g | item : Ortho acrylic powder (g) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:43:07 | change stock  | QOH :0 ml to 5000 ml | ROL : 1 ml to 1 ml | item : Ortho acrylic liquid (ml) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:43:21 | change stock  | QOH :0 kg to 170 kg | ROL : 1 kg to 1 kg | item : POP-HARD | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:43:36 | change stock  | QOH :0 kg to 375 kg | ROL : 1 kg to 1 kg | item : POP - Soft | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:44:23 | change stock  | QOH :0 ml to 7400 ml | ROL : 1 ml to 1 ml | item : Self cure acrylic liquid | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:44:41 | change stock  | QOH :0 g to 3250 g | ROL : 1 g to 1 g | item : Self cure acrylic powder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:45:07 | change stock  | QOH :0 g to 1800 g | ROL : 1 g to 1 g | item : Orthodontic wire ss hard 0.7mm (g) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:45:33 | change stock  | QOH :0 set to 45 set | ROL : 1 set to 1 set | item : Teeth Set of 6 Lower (Anterior) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:45:59 | change stock  | QOH :0 set to 40 set | ROL : 1 set to 1 set | item : Teeth Set of 8 Lower (Posterior) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:46:34 | change stock  | QOH :0 set to 95 set | ROL : 1 set to 1 set | item : Teeth Set of 8 Upper (Posterior) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:47:22 | change stock  | QOH :0 set to 240 set | ROL : 1 set to 1 set | item : Teeth Set of  Upper 6 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:47:43 | change stock  | QOH :0 set to 70 set | ROL : 1 set to 1 set | item : Plastic Teeth Full Set | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:48:19 | change stock  | QOH :0 each to 07 each | ROL : 1 each to 1 each | item : Burs Diamond fissure for A/R C/A H/P (Large)SS | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:49:25 | change stock  | QOH :0 g to 120 g | ROL : 1 g to 1 g | item : DENTAL FLUX | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:49:58 | change stock  | QOH :0 g to 25424 g | ROL : 1 g to 1 g | item : Impression Material | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:50:22 | change stock  | QOH :0 bottle to 45 bottle | ROL : 1 bottle to 1 bottle | item : Denture Base Materials Powder | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:52:10 | change stock  | QOH :0 bottle to 45 bottle | ROL : 1 bottle to 1 bottle | item : Denture Base Materials Liquid | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:53:03 | change stock  | QOH :0 pack to 02 pack | ROL : 1 pack to 1 pack | item : Arch wire with hook ss 019x 025 Upper 40mm- 10 pcs pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 11:54:24 | change stock  | QOH :0 roll to 18 roll | ROL : 1 roll to 1 roll | item : Elastro Plaster | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:20:01 | change stock  | QOH :0 each to 67 each | ROL : 1 each to 1 each | item : EDTA Gel | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:20:35 | change stock  | QOH :0 each to 28 each | ROL : 1 each to 1 each | item : Burs A/R pear shaped | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:20:59 | change stock  | QOH :0 g to 20 g | ROL : 1 g to 1 g | item : Light cure composite posterior A3  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:21:40 | change stock  | QOH :0 each to 05 each | ROL : 1 each to 1 each | item : Protaper file size individual -S1 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:21:52 | change stock  | QOH :0 each to 03 each | ROL : 1 each to 1 each | item : Protaper file size individual -F1 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:22:03 | change stock  | QOH :0 each to 03 each | ROL : 1 each to 1 each | item : Protaper file size individual -F2 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:22:39 | change stock  | QOH :0 pack to 07 pack | ROL : 1 pack to 1 pack | item : Protaper files size individual -S2 engine driven | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:23:00 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Fibre post system  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:23:38 | change stock  | QOH :0 g to 30 g | ROL : 1 g to 1 g | item : Root canal lubricant syringe  | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:24:10 | change stock  | QOH :0 each to 15 each | ROL : 1 each to 1 each | item : Burs A/R C/A H/P Round Small | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:24:57 | change stock  | QOH :0 set to 06 set | ROL : 1 set to 1 set | item : Protaper File Full System(Engine driven 25mm &amp; 20mm)(6PCS/SET) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:25:26 | change stock  | QOH :0 pack to 89 pack | ROL : 1 pack to 1 pack | item : Protaper GP (assorted pack F1/F2/ F3) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:25:54 | change stock  | QOH :0 pack to 20 pack | ROL : 1 pack to 1 pack | item : Calcium hydroxide Light curing | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:26:19 | change stock  | QOH :0 roll to 05 roll | ROL : 1 roll to 1 roll | item : Sterilization indicator Autoclave Monitor Tape | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:26:49 | change stock  | QOH :0 ml to 2500 ml | ROL : 1 ml to 1 ml | item : Mouth wash chlorhexidine 0.2% | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:27:17 | change stock  | QOH :0 g to 108 g | ROL : 1 g to 1 g | item : Light Cure Composite A2 Colour | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:27:48 | change stock  | QOH :0 g to 148 g | ROL : 1 g to 1 g | item : Light Cure Composite A3 Colour | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:28:32 | change stock  | QOH :0 each to 07 each | ROL : 1 each to 1 each | item : Burs A/R Flame Shape | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:28:54 | change stock  | QOH :0 each to 18 each | ROL : 1 each to 1 each | item : Air Rotor Wheel burs | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:29:19 | change stock  | QOH :0 each to 005 each | ROL :  each to 01 each | item : Replasement Molar Band 022 MBT LR 39 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:29:52 | change stock  | QOH :5 each to 5 each | ROL : 1 each to 1 each | item : Replasement Molar Band 022 MBT LR 39 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:30:18 | change stock  | QOH :0 each to 05 each | ROL :  each to 01 each | item : Replasement Molar Band 022 MBT LR 39+ | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:30:46 | change stock  | QOH :0 pack to 20 pack | ROL : 1 pack to 1 pack | item : Proteper GP F1 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:31:18 | change stock  | QOH :0 pack to 15 pack | ROL : 1 pack to 1 pack | item : Proteper GP F2 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:31:36 | change stock  | QOH :0 pack to 20 pack | ROL : 1 pack to 1 pack | item : Proteper GP F3 | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:32:55 | change stock  | QOH :0 pack to 1 pack | ROL : 1 pack to 1 pack | item : Damon arch wire 013 upper 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:33:27 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Damon arch wire 013 lower 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:33:39 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Damon arch wire 014 upper 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:33:57 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Damon arch wire 014 lower 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:34:27 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Damon arch wire 016 upper 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:34:39 | change stock  | QOH :0 pack to 01 pack | ROL : 1 pack to 1 pack | item : Damon arch wire 016 lower 10pcs/pack | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:35:43 | change stock  | QOH :4 each to 1 each | ROL : 1 each to 1 each | item : Photography retractor | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:37:22 | change stock  | QOH :0 box to 57 box | ROL : 1 box to 1 box | item : Examination Gloves non powder (Small) 100pcs | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:38:57 | change stock  | QOH :0 nos to 24200 nos | ROL : 1 nos to 1 nos | item : Glove Examination Small (Powdered) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:39:24 | change stock  | QOH :0 nos to 17800 nos | ROL : 1 nos to 1 nos | item : Glove Examination Large (Powdered) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:40:00 | change stock  | QOH :0 pack to 01 pack | ROL : 0 pack to 01 pack | item : Intra Oral Latex elastics Medium(2 oz)dia.3/16"(1000/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:40:38 | change stock  | QOH :0 pack to 25 pack | ROL : 1 pack to 1 pack | item : GP For Protaper F2   | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:40:50 | change stock  | QOH :0 pack to 20 pack | ROL : 1 pack to 1 pack | item : GP For Protaper F3   | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:41:50 | change stock  | QOH :0 pack to 17 pack | ROL : 1 pack to 1 pack | item : Protaper Paper point set  F2 (100points/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:42:15 | change stock  | QOH :0 pack to 13 pack | ROL : 1 pack to 1 pack | item : Protaper Paper point set F3 (100points/pack) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:42:39 | change stock  | QOH :0 ml to 35500 ml | ROL : 1 ml to 1 ml | item : Alcohol Hand Scrub (70-85%) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:43:10 | change stock  | QOH :0 each to 13 each | ROL : 1 each to 1 each | item : Burs air rotor C/A H/P Fissure Diamond (Large)) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:43:40 | change stock  | QOH :0 each to 29 each | ROL : 1 each to 1 each | item : Burs air rotor C/A H/P Inverted Diamond (Small) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:44:19 | change stock  | QOH :0 each to 18 each | ROL : 1 each to 1 each | item : Burs air rotor C/A H/P Round Diamond (Small) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:44:43 | change stock  | QOH :0 each to 73 each | ROL : 1 each to 1 each | item : Burs air rotor C/A H/P Round Diamond (Large) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:45:15 | change stock  | QOH :0 each to 21 each | ROL : 1 each to 1 each | item : Bur A/R C/A H/P Inverted Diamend Large | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:45:49 | change stock  | QOH :0 each to 28 each | ROL : 1 each to 1 each | item : Bur A/R C/A H/P Inverted Diamend - M | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:46:44 | change stock  | QOH :0 each to 42 each | ROL : 1 each to 1 each | item : Diamond bur for A/R H/P  (yellow band) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:47:23 | change stock  | QOH :0 pcs to 05 pcs | ROL : 0 pcs to 01 pcs | item : TC Fissure burs for A/R H/P | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:57:06 | change stock  | QOH :0 each to 200 each | ROL :  each to 01 each | item : Mirror Tops No 4 rear surface reflecting plain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:58:39 | change stock  | QOH :0 each to 203 each | ROL :  each to 01 each | item : Mirror Tops No 4 front surface reflecting plain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 12:59:18 | change stock  | QOH :0 pack to 57 pack | ROL : 1 pack to 1 pack | item : Zinc Oxide With Egenol | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 01:00:09 | change stock  | QOH :0 each to 7950 each | ROL :  each to 01 each | item : Disposable Face masks With Ear Loop | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 01:00:46 | change stock  | QOH :0 roll to 48 roll | ROL :  roll to 01 roll | item : Soft Cloth Liner Tape 2.5 cm x (3-5)m | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 01:01:08 | change stock  | QOH :0 roll to 31 roll | ROL :  roll to 01 roll | item : Soft Cloth Liner Tape 5 cm x (3-5)m | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 01:01:52 | change stock  | QOH :0 each to 60 each | ROL : 1 each to 1 each | item : Mirror Tops No 5 Front Surface Reflecing  plain | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 01:02:42 | change stock  | QOH :0 each to 0276 each | ROL : 1 each to 1 each | item : Mirror tops no 5 rear surface reflecting plain 01Each -ss white | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 02:28:35 | change stock  | QOH :0 nos to 02 nos | ROL :  nos to 01 nos | item : Air Motor 04 Hole Base for Dental unit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 02:29:14 | change stock  | QOH :0 nos to 02 nos | ROL :  nos to 01 nos | item : Air Rotor H/P 04 Holes Push Type For Dental unit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 02:30:00 | change stock  | QOH :0 nos to 04 nos | ROL :  nos to 01 nos | item : Air Rotor H/P 04 Holes Wrench Type For Dental unit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 02:30:33 | change stock  | QOH :0 nos to 01 nos | ROL :  nos to 01 nos | item : Contrangle Slow H/P for Dental unit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-25 02:30:59 | change stock  | QOH :0 nos to 04 nos | ROL :  nos to 01 nos | item : Straight Slow H/P for Dental unit | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-27 09:52:36 | change stock  | QOH :13500 nos to 133500 nos | ROL : 1 nos to 1 nos | item : GLOVES EXAMINATION | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-27 09:53:49 | change stock  | QOH :119 each to 139 each | ROL : 1 each to 1 each | item : GP POINTS (15-40) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-27 09:54:57 | change stock  | QOH :170 kg to 175 kg | ROL : 1 kg to 1 kg | item : POP-HARD | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-28 12:00:56 | change stock  | QOH :0 nos to 10 nos | ROL : 1 nos to 1 nos | item : Amalgam plugger meadium                                                | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-03-28 12:01:34 | change stock  | QOH :0 nos to 5 nos | ROL : 1 nos to 1 nos | item : Upper Molar Forceps  Left | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-05-06 09:44:29 | change stock  | QOH :0 pack to 04 pack | ROL : 1 pack to 1 pack | item : Root Canal file  K (45-80) 25mm | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-06-25 11:01:35 | change stock  | QOH :12700 each to 3900 each | ROL : 1 each to 1 each | item : Micro Brushes | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-06-25 11:02:18 | change stock  | QOH :3900 each to 12700 each | ROL : 1 each to 01 each | item : Micro Brushes | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-07-01 12:02:46 | change stock  | QOH :50 each to 570 each | ROL :  each to 05 each | item : Burs air rotor C/A H/P Inverted diamond (large) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-07-01 12:03:11 | change stock  | QOH :570 each to 70 each | ROL : 5 each to 5 each | item : Burs air rotor C/A H/P Inverted diamond (large) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-07-01 12:04:17 | change stock  | QOH :50 each to 78 each | ROL :  each to 05 each | item : Burs air rotor C/A H/P Inverted diamond (medium) | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.6 | 2024-07-31 09:05:35 | change stock  | QOH :88 bot to 178 bot | ROL : 1 bot to 1 bot | item : Normal Saline | s/652124 S/Sgt Sandaruwan VBA
+172.16.71.9 | 2024-09-02 12:21:36 | change stock  | QOH :30 each to 35 each | ROL : 1 each to 1 each | item : TC fissure burs  for A/R H/P | 652551 s/sgt Bandara DMSN
